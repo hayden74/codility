@@ -1,5 +1,6 @@
 /*
 # Max Profit (Codility) - Single Pass Solution
+uses Sliding Window technique 
 
 ## Problem Description:
 - Given an array `A` where `A[i]` represents the stock price on day `i`, find the **maximum profit** possible.
